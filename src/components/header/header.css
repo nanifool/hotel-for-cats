@@ -1,0 +1,23 @@
+.logo img {
+    width: 10%;
+    height: 10%;
+    position: absolute;
+}
+.header-components {
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+ul {
+    display: flex;
+    justify-content: space-around;
+}
+li {
+    padding: 10px;
+    list-style: none;
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+}
+
+

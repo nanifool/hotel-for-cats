@@ -1,0 +1,49 @@
+.error {
+  width: 100%;
+  height: 50rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#error-page {
+  display: flex;
+  flex-direction: column;
+  width: 26rem;
+  height: 21.875rem;
+  background-color: white;
+}
+
+.principal {
+  display: flex;
+  font-weight: 700;
+  text-align: center;
+  flex-direction: column;
+  background-color: rgb(240, 215, 215);
+  border: 0.125rem dashed red;
+  border-radius: 0.9375rem;
+  margin-bottom: 1.875rem;
+}
+
+.status {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  background-color: antiquewhite;
+  padding: 0.875rem;
+  border: 2px dashed brown;
+}
+
+ h1 {
+   font-size: 2rem;
+   margin: 0.625rem;
+ }
+
+ h3 {
+  font-size: 1.3rem;
+ }
+
+ p {
+  font-size: 1rem;
+  margin: 0.625rem;
+ }
